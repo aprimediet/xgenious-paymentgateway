@@ -1,5 +1,5 @@
 {
-    "name": "xgenious-fundorex/paymentgateway",
+    "name": "xgenious/paymentgateway",
     "description": "a laravel package to manage multiple payment gateway",
     "keywords": [
         "Laravel",
@@ -10,6 +10,8 @@
             "name": "Sharifur Rahman",
             "email": "dvrobin4@gmail.com"
         }
+    ],
+    "repositories": [
     ],
     "homepage": "https://github.com/Sharifur/paymentgateway",
     "require": {
